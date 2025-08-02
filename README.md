@@ -5,9 +5,8 @@
 **Team Name:** Keyboard Gremlins
 
 ### Team Members
-- **Team Lead:** Hriju Das – [Your College Name]
-- **Member 2:** TODO – [College]
-- **Member 3:** TODO – [College]
+- **Member 1:** Hriju T D
+- **Member 2:** Gouri Nanda P S
 
 ---
 
