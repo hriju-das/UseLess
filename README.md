@@ -1,18 +1,75 @@
-# 🧠 Useless Typer Extension
+# Useless Typer 🧠
 
-A fun, lightweight browser extension that injects random quirky phrases into input fields as you type. Great for demos, jokes, or just confusing your coworkers.
+## Basic Details
 
-🚀 Features
+**Team Name:** Keyboard Gremlins
 
-- Injects random phrases like `galactic tacos` or `rubber duck debugging` while typing
-- Works on dynamically loaded input fields too
-- Lightweight and fast
-- 100% useless — but entertaining
+### Team Members
+- **Team Lead:** Hriju Das – [Your College Name]
+- **Member 2:** TODO – [College]
+- **Member 3:** TODO – [College]
 
-📦 Installation
+---
 
-Chrome
+## Project Description
 
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/your-username/useless-typer-extension.git
+A browser extension that hijacks your typing and injects random nonsense phrases into text fields — just to mess with you. Totally impractical, slightly chaotic, and 100% useless.
+
+---
+
+## The Problem (that doesn’t exist)
+
+Typing is boring. The internet is too serious. We aim to solve the absolutely non-existent problem of “not enough randomness in input fields.”
+
+---
+
+## The Solution (that nobody asked for)
+
+Inject weird, fun phrases like `existential burrito` or `banana phone` into text boxes while the user is typing — even in fields that appear later on the page.
+
+---
+
+## Technical Details
+
+### Technologies/Components Used
+
+**For Software:**
+- **Languages used:** JavaScript, HTML, CSS
+- **Frameworks used:** None
+- **Libraries used:** None
+
+**For Hardware:**
+- None (it's a browser extension, silly)
+
+---
+
+## Implementation
+
+### For Software:
+Chrome:
+
+    Go to chrome://extensions
+
+    Enable Developer Mode
+
+    Click "Load unpacked" and select the folder
+
+Firefox:
+
+    Go to about:debugging
+
+    Click "Load Temporary Add-on"
+
+    Choose manifest.json
+
+Run
+#### Installation
+
+```bash
+git clone https://github.com/your-username/useless-typer.git
+
+
+### Screenshots
+
+
+<img width="692" height="650" alt="image" src="https://github.com/user-attachments/assets/1ae8fd1a-8e7d-4929-bf03-8d3e0557f3b6" />
